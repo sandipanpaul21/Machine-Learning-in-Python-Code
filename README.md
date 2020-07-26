@@ -1,4 +1,4 @@
-## How to Approach Machine Learning Problem Step by Step !! 
+## How to Approach ML Problems Step by Step !! 
 
 ### Step 1 - Know about the Dataset
 * What Dataset is all about?
