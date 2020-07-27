@@ -1,5 +1,7 @@
 ## How to Approach ML Problems Step by Step !! 
 
+For THEORY PART, please refer to https://github.com/sandipanpaul21/Machine-Learning-Notes-Daywise
+
 ### Step 1 - Know about the Dataset (01 About the Dataset)
 * What Dataset is all about?
 * Problem Objective
