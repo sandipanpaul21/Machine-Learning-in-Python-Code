@@ -18,7 +18,7 @@ For THEORY PART, please refer to https://github.com/sandipanpaul21/Machine-Learn
 
 ### Step 3 - Bivariate Analysis (03 Bivariate Analysis)
 * Bi means two so Two Variable Analysis
-* There are majorly two types of Data Variable - 1. Continuous Variable & 2. Categorical Variable
+* There are majorly two types of Data Variable - Continuous & Categorical Variable
 * So 3 possible combination for Bivariate Analysis
   1. Continuous vs Continuous - Correlation Coefficient 
   2. Categorical vs Categorical - Chi Square Test
