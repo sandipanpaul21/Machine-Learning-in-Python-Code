@@ -6,7 +6,7 @@ For THEORY PART, please refer to https://github.com/sandipanpaul21/Machine-Learn
 * What Dataset is all about?
 * Problem Objective
 * Number of Rows and Columns
-* Data Stored in which type? Is it a Data-frame or a Dictionary?
+* Data Stored is in which type? Is it a Data-frame or a Dictionary?
 
 ### Step 2 - Univariate Analysis (02 Univariate Analysis)
 * Uni means one, so Single Variable Analysis
