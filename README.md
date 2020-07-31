@@ -20,8 +20,8 @@ For THEORY PART, please refer to https://github.com/sandipanpaul21/Machine-Learn
 * Bi means two so Two Variable Analysis
 * There are majorly two types of Data Variable - 1. Continuous Variable & 2. Categorical Variable
 * So 3 possible combination for Bivariate Analysis
-* 1. Continuous vs Continuous - Correlation Coefficient 
-* 2. Categorical vs Categorical - Chi Square Test
-* 3. Continuous vs Categorical - T Test (n < 30), Z Test (n > 30) and ANOVA Test
+  1. Continuous vs Continuous - Correlation Coefficient 
+  2. Categorical vs Categorical - Chi Square Test
+  3. Continuous vs Categorical - T Test (n < 30), Z Test (n > 30) and ANOVA Test
 
 ### Step 4 -
