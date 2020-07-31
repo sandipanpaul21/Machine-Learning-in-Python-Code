@@ -22,6 +22,6 @@ For THEORY PART, please refer to https://github.com/sandipanpaul21/Machine-Learn
 * So 3 possible combination for Bivariate Analysis
 * 1. Continuous vs Continuous - Correlation Coefficient 
 * 2. Categorical vs Categorical - Chi Square Test
-* 3. Continuous vs Categorical - T Test (n < 30), Z Test (n > 30), ANOVA Test
+* 3. Continuous vs Categorical - T Test (n < 30), Z Test (n > 30) and ANOVA Test
 
 ### Step 4 -
