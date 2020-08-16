@@ -30,7 +30,9 @@ For THEORY PART, please refer to https://github.com/sandipanpaul21/Machine-Learn
 * Technqiues to Remove Outliers: Capping Based on Upper and Lower Range
 * Missing Values in the Dataset cause concern for Machine Learning Model
 * Techniques for Imputing Missing Values
-  1.Continuous Data: Median, 2.Categorical Data: Mode and 3.KNN Imputation (better than Median and Mode imputation)
+  1.Continuous Data: Median Imputation
+  2.Categorical Data: Mode Imputation
+  3.KNN Imputation (better than Median and Mode imputation)
 
 ### 05 Feature Engineering 
 * Tweaking the features, to increase the efficiency of the Model
