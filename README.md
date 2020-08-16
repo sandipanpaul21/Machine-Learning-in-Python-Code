@@ -32,7 +32,7 @@ For THEORY PART, please refer to https://github.com/sandipanpaul21/Machine-Learn
 * Techniques for Imputing Missing Values
   1. Continuous Data: Median Imputation
   2. Categorical Data: Mode Imputation
-  3. KNN Imputation (better than Median and Mode imputation)
+  3. KNN Imputation (why better than Median and Mode imputation)
 
 ### 05 Feature Engineering 
 * Tweaking the features, to increase the efficiency of the Model
