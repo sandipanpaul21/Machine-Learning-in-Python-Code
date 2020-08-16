@@ -45,4 +45,4 @@ For THEORY PART, please refer to https://github.com/sandipanpaul21/Machine-Learn
   2. Method Used: Mix-Max Scaler
 * Feature Construction
   1. It is a process of creating features based on the original descriptors
-  2. Methods Used: 1.Enocoding and 2.One Hot Encoding
+  2. Methods Used: 1.Binning and 2.Encoding
