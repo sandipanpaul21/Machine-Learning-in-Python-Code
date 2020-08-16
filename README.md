@@ -38,8 +38,8 @@ For THEORY PART, please refer to https://github.com/sandipanpaul21/Machine-Learn
 * Tweaking the features, to increase the efficiency of the Model
 * 3 Major Steps in Feature Engineering : 1.Transformation, 2.Scaling & 3. Construction
 * Feature Transformation
-  1. It is a process of creating features based on the original descriptors
-  2. Methods Used: 1.Binning and 2.Encoding
+  1. Feature transformation is performed to normalize the data
+  2. Methods Used: 1.Log Transformation 2.Square Root 3.Cube Root and 4.Box-Cox Transformation
 * Feature Scaling
   1. Feature scaling is conducted to standardize the independent features
   2. Method Used: Mix-Max Scaler
