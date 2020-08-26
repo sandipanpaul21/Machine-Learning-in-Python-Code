@@ -49,4 +49,8 @@ For THEORY PART, please refer to https://github.com/sandipanpaul21/Machine-Learn
 
 ### 06 Regression Assumption
 * With Boston Dataset, all 5 regression assumptions checked (Why, What and How)
-* 1. Linearity between Target & Features, 2. Normality of Error Term, 3. Multicollinearity among Predictors, 4. Autocorrelation among Error Term and 5. Homoscedasticity
+  1. Linearity between Target & Features
+  2. Normality of Error Term
+  3. Multicollinearity among Predictors
+  4. Autocorrelation among Error Term 
+  5. Homoscedasticity
