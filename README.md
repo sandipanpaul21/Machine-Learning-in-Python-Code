@@ -48,5 +48,5 @@ For THEORY PART, please refer to https://github.com/sandipanpaul21/Machine-Learn
   2. Methods Used: 1.Binning and 2.Encoding
 
 ### 06 Regression Assumption
-* With Boston Dataset, all 5 regression assumption was checked (Why, What and How)
-* 1. Linearity between Targer & Features, 2. Normality of Error Term, 3. Multicollinearity among Predictors, 4. Autocorrelation among Error Term and 5. Homoscedasticity
+* With Boston Dataset, all 5 regression assumptions checked (Why, What and How)
+* 1. Linearity between Target & Features, 2. Normality of Error Term, 3. Multicollinearity among Predictors, 4. Autocorrelation among Error Term and 5. Homoscedasticity
